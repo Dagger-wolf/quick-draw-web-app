@@ -1,0 +1,30 @@
+body{
+
+    background-size: cover;
+
+}
+
+#score{
+
+    font-size: 20px;
+    margin-left: 20px;
+    color: blue;
+
+}
+
+#time{
+
+    font-size: 20px;
+    float: right;
+    margin-right: 10px;
+    color: red;
+
+}
+
+#sketch_to_draw{
+
+    color: darkblue;
+    font-weight: 2000;
+    font-size: 30px;
+
+}
